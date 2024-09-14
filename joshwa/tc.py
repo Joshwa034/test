@@ -1,2 +1,1 @@
-print("joshwa")
-print("erica")
+print("joshwa");;;
